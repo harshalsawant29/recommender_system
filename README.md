@@ -12,7 +12,6 @@ This repository contains code and documentation for an Amazon product recommenda
 - [Recommendation System](#recommendation-system)
 - [Results](#results)
 - [Usage and Installation](#usage-and-installation)
-- [Contributors](#contributors)
 - [License](#license)
 
 ## Overview
