@@ -156,18 +156,5 @@ pip install -r requirements.txt
   ```
   - Open and execute the desired notebooks sequentially.
 
-## **Contributors**
-- Simran Mhaske 
-
-  - Hrishikesh Pawar 
-
-  - Harshal Sawant 
-
-  - Ishan Prabhune 
-
-  - Yashraj Diwate 
-
-  - Pratik Patil 
-
 ## **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
